@@ -1,4 +1,4 @@
-package pl.adomanski.webflux;
+package one.valuelogic.webflux.sample;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.core.ParameterizedTypeReference;

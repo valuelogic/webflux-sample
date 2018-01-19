@@ -1,4 +1,4 @@
-package pl.adomanski.webflux;
+package one.valuelogic.webflux.sample;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
